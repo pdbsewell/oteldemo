@@ -21,7 +21,7 @@ to the `oteldemo` folder and run:
 docker-compose up -d
 ```
 The demo exposes the following frontends:
-- OTel Collector at http://localhost:55681
+- OTel Collector at http://localhost:55681/v1/trace
 
 The demo exposes the following backends:
 
