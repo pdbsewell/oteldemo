@@ -35,6 +35,6 @@ Notes:
  dashboard;
 
 To clean up any docker container from the demo run `docker-compose down` from 
-the `examples/demo` folder.
+the `oteldemo` folder.
 
 
